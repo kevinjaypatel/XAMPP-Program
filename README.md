@@ -1,5 +1,5 @@
 # XAMPP-Program
-This program utilizes the Cross-platform, Apache, mySQL, PHP and Perl (XAMPP) application to build a basic HTML form which stores user input into a mySQL database
+This program utilizes the Cross-platform, Apache, mySQL, PHP and Perl (XAMPP) application to build a basic HTML form which stores user input into a MySQL database. The purpose of this application is to design a fake HTML form which users will be tricked into entering via phishing attack. 
 
 Further tutorials and learning about this application can be found here https://youtu.be/qVU3V0A05k8
 
@@ -27,7 +27,7 @@ git clone https://github.com/kevinjaypatel/XAMPP-Program.git
 
 ### Troubleshooting: 
 
-1. MySQL Shutdown Unexpectedly Error
+1. MySQL Shutdown Unexpectedly error after starting the MySQL server from xampp GUI
 check out this video demonstration: https://www.youtube.com/watch?v=rohn_3WlmE0 
 
 
